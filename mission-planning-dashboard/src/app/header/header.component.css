@@ -1,0 +1,12 @@
+div {
+    background-color: rgb(122, 120, 120);
+    margin-bottom: 10px;
+    height: 200px;
+}
+h1 {
+    padding-top: 10px;
+}
+
+h1,h3 {
+    text-align: center;
+}
